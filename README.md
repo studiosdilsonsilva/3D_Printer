@@ -33,3 +33,8 @@ Follow these steps to get your 3D printer up and running:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-repository/3d-printer.git
+
+   ---
+
+   ##🛠️ Contribution
+We welcome contributions! If you have improvements, bug fixes, or features to add, please fork the repository and submit a pull request. You can also report issues by opening a new ticket in the Issues tab.
